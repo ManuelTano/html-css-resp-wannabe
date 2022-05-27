@@ -23,6 +23,10 @@
     .why-us {
         background-color: #222222;
     }
+
+    .steps {
+        margin: 0px;
+    }
 }
     
 /* TABLET */
@@ -32,4 +36,14 @@
     .container {
         width: 100%;
      }
+}
+
+/* TRA 768 E 1160 */
+
+@media screen and (min-width: 769px) and (max-width: 1160px) {
+    
+    body {
+        overflow-x: hidden;
+
+    }
 }
