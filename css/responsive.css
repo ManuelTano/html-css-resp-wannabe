@@ -22,10 +22,19 @@
 
     .why-us {
         background-color: #222222;
+        margin-bottom: 0px;
     }
 
     .steps {
         margin: 0px;
+    }
+
+    section {
+        padding-top: 35px;
+    }
+
+    .lessons {
+        padding-bottom: 35px;
     }
 }
     
